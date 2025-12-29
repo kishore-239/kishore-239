@@ -20,5 +20,5 @@ I tend to spend more time rewriting explanations than writing code because uncle
 
 ### Links
 - LinkedIn: https://linkedin.com/in/krishnakishorekudithi  
-- Medium: https://medium.com/@krishnakishorekudithik  
+- Medium: https://medium.com/@kishorekrishna623
 - Email: kishorekrishna623@gmail.com
