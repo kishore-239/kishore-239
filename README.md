@@ -1,16 +1,24 @@
-## Hi there 👋
+### About Me
 
-<!--
-**kishore-239/kishore-239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently cleaning up and documenting my machine learning notebooks, mainly around KNN and Decision Trees.
+I focus more on understanding why models behave the way they do, instead of just chasing accuracy.
 
-Here are some ideas to get you started:
+I’m interested in beginner-friendly data analysis and ML projects where clarity and learning matter more than flashy results.
+Right now, I’m going deeper into core concepts like bias–variance tradeoff, feature scaling, model evaluation, and decision boundaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can ask me about KNN, Decision Trees, basic EDA, or how to approach ML assignments step-by-step.
+I tend to spend more time rewriting explanations than writing code because unclear logic bothers me.
+
+
+### Tech Stack
+- Python  
+- SQL  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- scikit-learn  
+
+
+### Links
+- LinkedIn: https://linkedin.com/in/krishnakishorekudithi  
+- Medium: https://medium.com/@krishnakishorekudithik  
+- Email: kishorekrishna623@gmail.com
