@@ -1,31 +1,27 @@
 ### About Me
 
-I'm Kishore — a CS student who spends more time questioning why a model
-behaves a certain way than actually running it.
+I'm Kishore — I build things, deploy them, and then figure out 
+what actually went wrong.
 
-Most of my work right now is around classical ML — KNN, Decision Trees,
-and building up from there. I care a lot about the fundamentals: bias–variance
-tradeoff, feature scaling, decision boundaries, proper evaluation. The kind of
-stuff that's easy to skip but hard to ignore once you've seen a model fail
-because of it.
+Most of my work sits at the intersection of computer vision, NLP, 
+and cloud deployment. I've gone from training custom CNNs from scratch 
+to fine-tuning EfficientNet with MLflow tracking, built a RAG system 
+on Amazon Bedrock with OpenSearch Serverless, and shipped a multi-label 
+road scene classifier with Grad-CAM explanations and a FastAPI backend.
 
-I also work on NLP tasks — recently built a hate speech classifier using
-Simple RNN from scratch, which taught me more about imbalanced datasets
-than any tutorial did.
+I care more about why something works than whether it works. 
+A model that hits 94% accuracy on an imbalanced dataset tells 
+you nothing until you look at the per-class F1.
 
-I rewrite my explanations more than my code. If the logic isn't clear to me,
-the code doesn't get written.
-
-Currently cleaning up and properly documenting my ML notebooks — because
-notebooks that only the author can understand aren't really useful to anyone.
+Currently exploring how far you can push production-ready ML 
+without a full engineering team behind it.
 
 ### Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- scikit-learn
-- TensorFlow / Keras
-- SQL
+- Python, SQL
+- PyTorch, TensorFlow/Keras, scikit-learn
+- MLflow, FastAPI, Streamlit, Gradio
+- AWS (EC2, S3, Bedrock, OpenSearch Serverless)
+- Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 ### Links
 - LinkedIn: https://linkedin.com/in/krishnakishorekudithi
